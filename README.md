@@ -1,5 +1,5 @@
 # Awesome-Competitive-Programming-Resources
-
+ 
 ## Top Resources for Competitive Programming & Algorithmic Programming Ecosystem
 
 **Curated List of Platforms, Tools, Books, Courses & Open-Source Projects**  
